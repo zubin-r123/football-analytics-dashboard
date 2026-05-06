@@ -35,15 +35,7 @@ performance across Europe's top 5 football leagues for the
 
 ---
 
-## Screenshots
 
-### Player Performance View
-![Player Analysis](screenshots/player_analysis.png)
-
-### League Comparison
-![League Comparison](screenshots/league_comparison.png)
-
----
 
 ## Tools Used
 
