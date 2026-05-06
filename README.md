@@ -8,7 +8,7 @@ performance across Europe's top 5 football leagues for the
 
 ## Overview
 
-![Dashboard Overview] (Screenshot 2026-05-06 154421.png)
+![Dashboard Overview](Screenshot%202026-05-06%20154421.png)
 
 ---
 
